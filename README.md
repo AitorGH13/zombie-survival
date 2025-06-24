@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Unreal_Engine-Logo.svg" alt="Logo del proyecto" width="200">
+  <img src="/Images/Unreal_Engine-Logo.svg" alt="Logo del proyecto" width="200">
 </div>
 
 # Descripción
@@ -19,13 +19,13 @@ Este proyecto ha sido desarrollado utilizando [Unreal Engine 5.0.3](https://www.
 
 # Capturas de pantalla
 <div align="center">
-    <img src="/GameCaptures/GameCapture1.png" alt="Demo animado" width="800"/>
+    <img src="/Images/GameCapture1.png" alt="Demo animado" width="800"/>
 </div>
 
 <div align="center">
-    <img src="/GameCaptures/GameCapture2.png" alt="Demo animado" width="800"/>
+    <img src="/Images/GameCapture2.png" alt="Demo animado" width="800"/>
 </div>
 
 <div align="center">
-    <img src="/GameCaptures/GameCapture3.png" alt="Demo animado" width="800"/>
+    <img src="/Images/GameCapture3.png" alt="Demo animado" width="800"/>
 </div>
