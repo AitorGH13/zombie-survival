@@ -17,6 +17,16 @@ Este proyecto ha sido desarrollado utilizando [Unreal Engine 5.0.3](https://www.
 > [!NOTE]  
 > Es recomendable abrirlo con esa misma versión para evitar problemas de compatibilidad.
 
+# Recursos utilizados
+
+Este proyecto incluye recursos públicos obtenidos del Marketplace de Unreal (Fab):
+
+- [City of Brass: Environments](https://www.fab.com/es-es/listings/8224e77b-a274-4426-b073-977f47224ed8) – utilizado para crear entornos y elementos modulares del escenario.
+
+- [City of Brass: Enemies](https://www.fab.com/es-es/listings/8224e77b-a274-4426-b073-977f47224ed8) – usado como base para los enemigos y su comportamiento.
+
+Todos los recursos mencionados son gratuitos y han sido utilizados conforme a las licencias correspondientes del Marketplace.
+
 # Capturas de pantalla
 <div align="center">
     <img src="/Images/GameCapture1.png" alt="Demo animado" width="800"/>
