@@ -23,7 +23,7 @@ Este proyecto incluye recursos públicos obtenidos del Marketplace de Unreal (Fa
 
 - [City of Brass: Environments](https://www.fab.com/es-es/listings/8224e77b-a274-4426-b073-977f47224ed8) – utilizado para crear entornos y elementos modulares del escenario.
 
-- [City of Brass: Enemies](https://www.fab.com/es-es/listings/8224e77b-a274-4426-b073-977f47224ed8) – usado como base para los enemigos y su comportamiento.
+- [City of Brass: Enemies](https://www.fab.com/es-es/listings/396e34fb-2ac1-45f9-858b-836fdd3e3892) – usado como base para los enemigos y su comportamiento.
 
 Todos los recursos mencionados son gratuitos y han sido utilizados conforme a las licencias correspondientes del Marketplace.
 
